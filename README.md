@@ -1,6 +1,6 @@
 # wassup13_2
 # Markup
-## {stackedit}(https://stackedit.io/app#)
+## [stackedit](https://stackedit.io/app#)
 
 <img alt="google" src="https://www.google.com/logos/doodles/2026/figure-skating-2026-6753651837111048-law.gif" />
 <br><br><br>
